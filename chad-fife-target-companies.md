@@ -161,28 +161,28 @@ Based on your public profile at chadfife.com and LinkedIn, your core strengths a
 
 ## Summary Matrix
 
-| # | Company | Category | Best Fit | Why Chad Wins |
-|---|---------|----------|----------|---------------|
-| 1 | HireVue | HR Tech | Consulting / VP Marketing | Talview video interviewing experience |
-| 2 | Criteria Corp | HR Tech | Consulting / Fractional CMO | TalentLens / PSI assessment parallel |
-| 3 | Harver | HR Tech | International GTM consulting | Pearson 8-country + PSI global experience |
-| 4 | Paradox | HR Tech | Product launch consulting | AI HR product naming + messaging expertise |
-| 5 | Phenom | HR Tech | VP Marketing / Consulting | Cross-product HR tech credibility |
-| 6 | Eightfold AI | HR Tech | GTM consulting | Assessment + career guidance intersection |
-| 7 | Mercer \| Mettl | HR Tech | Fractional CMO | PSI global marketing = direct repeat |
-| 8 | Degreed | HR+EdTech | VP Marketing / Consulting | HR/EdTech bridge expertise |
-| 9 | iMocha | HR Tech | Fractional CMO | Assessment GTM at scale |
-| 10 | Checkr | HR Tech | Product marketing consulting | Assessment-adjacent repositioning |
-| 11 | Handshake | EdTech | VP Partnerships / Consulting | 80+ university track record |
-| 12 | Credly (Pearson) | EdTech | Consulting / Leadership | Pearson + credentialing = perfect overlap |
-| 13 | Guild Education | EdTech | VP Marketing / Consulting | HR + higher ed dual fluency |
-| 14 | Lightcast | EdTech | Senior marketing / Consulting | Workforce readiness + college buyers |
-| 15 | EAB | EdTech | VP Marketing / Thought Leadership | Higher ed institutional sales experience |
-| 16 | Parchment | EdTech | Product marketing consulting | Credentialing + higher ed + HR bridge |
-| 17 | Cengage Work | EdTech | VP Product Marketing | College-to-career product launch experience |
-| 18 | Wiley/mthree | EdTech | Fractional CMO / Consulting | UK + India marketing leadership |
-| 19 | Riipen | EdTech | GTM consulting | Two-sided higher ed + employer marketplace |
-| 20 | Stepful | EdTech | Product launch consulting | Nurse.com + healthcare workforce angle |
+| # | Company | URL | Category | Best Fit | Why Chad Wins |
+|---|---------|-----|----------|----------|---------------|
+| 1 | HireVue | [hirevue.com](https://www.hirevue.com) | HR Tech | Consulting / VP Marketing | Talview video interviewing experience |
+| 2 | Criteria Corp | [criteriacorp.com](https://www.criteriacorp.com) | HR Tech | Consulting / Fractional CMO | TalentLens / PSI assessment parallel |
+| 3 | Harver | [harver.com](https://www.harver.com) | HR Tech | International GTM consulting | Pearson 8-country + PSI global experience |
+| 4 | Paradox | [paradox.ai](https://www.paradox.ai) | HR Tech | Product launch consulting | AI HR product naming + messaging expertise |
+| 5 | Phenom | [phenom.com](https://www.phenom.com) | HR Tech | VP Marketing / Consulting | Cross-product HR tech credibility |
+| 6 | Eightfold AI | [eightfold.ai](https://eightfold.ai) | HR Tech | GTM consulting | Assessment + career guidance intersection |
+| 7 | Mercer \| Mettl | [mettl.com](https://mettl.com) | HR Tech | Fractional CMO | PSI global marketing = direct repeat |
+| 8 | Degreed | [degreed.com](https://degreed.com) | HR+EdTech | VP Marketing / Consulting | HR/EdTech bridge expertise |
+| 9 | iMocha | [imocha.io](https://www.imocha.io) | HR Tech | Fractional CMO | Assessment GTM at scale |
+| 10 | Checkr | [checkr.com](https://checkr.com) | HR Tech | Product marketing consulting | Assessment-adjacent repositioning |
+| 11 | Handshake | [joinhandshake.com](https://joinhandshake.com) | EdTech | VP Partnerships / Consulting | 80+ university track record |
+| 12 | Credly (Pearson) | [credly.com](https://www.credly.com) | EdTech | Consulting / Leadership | Pearson + credentialing = perfect overlap |
+| 13 | Guild Education | [guild.com](https://www.guild.com) | EdTech | VP Marketing / Consulting | HR + higher ed dual fluency |
+| 14 | Lightcast | [lightcast.io](https://lightcast.io) | EdTech | Senior marketing / Consulting | Workforce readiness + college buyers |
+| 15 | EAB | [eab.com](https://eab.com) | EdTech | VP Marketing / Thought Leadership | Higher ed institutional sales experience |
+| 16 | Parchment | [parchment.com](https://www.parchment.com) | EdTech | Product marketing consulting | Credentialing + higher ed + HR bridge |
+| 17 | Cengage Work | [cengage.com/work](https://www.cengage.com/work) | EdTech | VP Product Marketing | College-to-career product launch experience |
+| 18 | Wiley/mthree | [mthree.com](https://www.mthree.com) | EdTech | Fractional CMO / Consulting | UK + India marketing leadership |
+| 19 | Riipen | [riipen.com](https://www.riipen.com) | EdTech | GTM consulting | Two-sided higher ed + employer marketplace |
+| 20 | Stepful | [stepful.com](https://www.stepful.com) | EdTech | Product launch consulting | Nurse.com + healthcare workforce angle |
 
 ---
 
